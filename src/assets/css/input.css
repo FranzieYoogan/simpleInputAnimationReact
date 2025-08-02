@@ -1,0 +1,23 @@
+.labelStyle {
+
+    position: absolute;
+    left: 0.5em;
+    top: 8px;
+    transition: 0.2s ease all;
+    font-weight: 900;
+
+}
+
+.stateActive {
+
+    top: -12px;
+    font-size: 10px;
+
+}
+
+
+.containerInput {
+
+    position: relative;
+
+}
